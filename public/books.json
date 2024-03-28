@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "title": "1984",
+        "author": "George Orwell",
+        "cover": "https://i.ibb.co/8sP4t3b/1984.png",
+        "review": "A dystopian masterpiece that remains as chillingly relevant today as it was when first published. Orwell's portrayal of a totalitarian regime is both haunting and thought-provoking.",
+        "totalPages": 328,
+        "rating": 4.5,
+        "category": "Fiction",
+        "tags": [
+            "Dystopian",
+            "Political"
+        ],
+        "publisher": "Signet Classic",
+        "year": 1949
+    },
+    {
+        "id": 2,
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "cover": "https://i.ibb.co/nwz51nr/to-kill-a-mocking-bird.jpg",
+        "review": "A powerful exploration of racial injustice and moral growth in a small Southern town. Harper Lee's timeless classic is a must-read for all generations.",
+        "totalPages": 281,
+        "rating": 4.8,
+        "category": "Fiction",
+        "tags": [
+            "Classic",
+            "Southern Gothic"
+        ],
+        "publisher": "J. B. Lippincott & Co.",
+        "year": 1960
+    },
+    {
+        "id": 3,
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "cover": "https://i.ibb.co/b1Tr548/gatsby.png",
+        "review": "Fitzgerald's Jazz Age masterpiece is a captivating portrayal of the American Dream and its corruption. The tragic tale of Jay Gatsby is a timeless classic.",
+        "totalPages": 180,
+        "rating": 4.7,
+        "category": "Fiction",
+        "tags": [
+            "Classic",
+            "Roaring Twenties"
+        ],
+        "publisher": "Charles Scribner's Sons",
+        "year": 1925
+    },
+    {
+        "id": 4,
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "cover": "https://i.ibb.co/J52smkF/catcher-in-the-rye.jpg",
+        "review": "Holden Caulfield's cynical and rebellious journey through New York City remains a quintessential portrayal of teenage angst and disillusionment.",
+        "totalPages": 277,
+        "rating": 4.3,
+        "category": "Fiction",
+        "tags": [
+            "Coming-of-age",
+            "Cultural"
+        ],
+        "publisher": "Little, Brown and Company",
+        "year": 1951
+    },
+    {
+        "id": 5,
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "cover": "https://i.ibb.co/yg03zvL/pride-n-prejudice.jpg",
+        "review": "Austen's timeless tale of love and societal norms is a delightful journey through Georgian England. The wit and charm of Elizabeth Bennet continue to captivate readers.",
+        "totalPages": 279,
+        "rating": 4.6,
+        "category": "Fiction",
+        "tags": [
+            "Romance",
+            "Classic"
+        ],
+        "publisher": "T. Egerton, Whitehall",
+        "year": 1813
+    },
+    {
+        "id": 6,
+        "title": "The Lord of the Rings",
+        "author": "J.R.R. Tolkien",
+        "cover": "https://i.ibb.co/3Bjpx6b/lord-of-the-rings.jpg",
+        "review": "Tolkien's epic fantasy trilogy is a masterpiece of world-building and storytelling. The journey of Frodo and the Fellowship captivates readers with its depth and imagination.",
+        "totalPages": 1178,
+        "rating": 4.9,
+        "category": "Fantasy",
+        "tags": [
+            "Epic",
+            "High Fantasy"
+        ],
+        "publisher": "Allen & Unwin",
+        "year": 1954
+    }
+]

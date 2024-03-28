@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1,
+        "title": "The Alchemist",
+        "cover": "https://i.ibb.co/nBSDqg3/alchemist.jpg",
+        "author": "Paulo Coelho"
+    },
+    {
+        "id": 2,
+        "title": "The Hobbit",
+        "cover": "https://i.ibb.co/TqQ91Nm/hobbit.jpg",
+        "author": "J.R.R. Tolkien"
+    },
+    {
+        "id": 3,
+        "title": "The Night Circus",
+        "cover": "https://i.ibb.co/VHvbFqT/night-circus.jpg",
+        "author": "Erin Morgenstern"
+    },
+    {
+        "id": 4,
+        "title": "Moby Dick",
+        "cover": "https://i.ibb.co/qg5814M/moby-dick.jpg",
+        "author": "Herman Melville"
+    },
+    {
+        "id": 5,
+        "title": "The Girl on the Train",
+        "cover": "https://i.ibb.co/m9ksVps/girl-train.jpg",
+        "author": "Paula Hawkins"
+    }
+]
+
